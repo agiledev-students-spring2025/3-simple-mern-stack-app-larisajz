@@ -1,0 +1,57 @@
+/* Container for your About Us content */
+.about-container {
+    /* Center the content and limit its width for better readability */
+    max-width: 700px;
+    margin: 2rem auto; /* Top/bottom = 2rem, left/right = auto (centers) */
+    padding: 0 1rem;   /* Small horizontal padding */
+    text-align: center; /* Center the text if desired */
+  }
+  
+  /* Style for the heading */
+  .about-container h1 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+  }
+  
+  /* Style for the paragraphs */
+  .about-container p {
+    margin: 1rem 0;
+    line-height: 1.6; /* Improve readability */
+  }
+  
+  /* Style for the image */
+  .about-container img {
+    max-width: 100%;  /* Keep the image responsive */
+    height: auto;
+    display: block;
+    margin: 1rem auto; /* Center the image with some vertical margin */
+  }
+/* Container for your About Us content */
+.about-container {
+    /* Center the content and limit its width for better readability */
+    max-width: 700px;
+    margin: 2rem auto; /* Top/bottom = 2rem, left/right = auto (centers) */
+    padding: 0 1rem;   /* Small horizontal padding */
+    text-align: center; /* Center the text if desired */
+  }
+  
+  /* Style for the heading */
+  .about-container h1 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+  }
+  
+  /* Style for the paragraphs */
+  .about-container p {
+    margin: 1rem 0;
+    line-height: 1.6; /* Improve readability */
+  }
+  
+  /* Style for the image */
+  .about-container img {
+    max-width: 100%;  /* Keep the image responsive */
+    height: auto;
+    display: block;
+    margin: 1rem auto; /* Center the image with some vertical margin */
+  }
+    
